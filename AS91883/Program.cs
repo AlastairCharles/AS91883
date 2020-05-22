@@ -6,7 +6,7 @@ namespace AS91883
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" ");
+            Console.WriteLine("uuhhh");
         }
     }
 }
